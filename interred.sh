@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# </By Multtimy>
-
 # /* Colors */
 red="\e[01;31m"; green="\e[01;32m"; yellow="\e[01;33m";
 blue="\e[01;34m"; purple="\e[01;35m"; cyan="\e[01;36m";
