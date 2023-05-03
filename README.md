@@ -13,7 +13,7 @@
 		sudo ./interren.sh
 
 ### Note
-- Install the net-tools dependency
+- Install the **net-tools** dependency
 
 ### Sopported
 ![support](https://shields.io/badge/Supported%20on-Debian%20Based%20Systems-blue.svg?style=plastic)
