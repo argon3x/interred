@@ -6,11 +6,11 @@
 
 - **Give it execute permissions to script**
 
-	chmod 750 interren.sh
+		chmod 750 interren.sh
 
 - **Run the script**
 
-	sudo ./interren.sh
+		sudo ./interren.sh
 
 ### Note
 - Install the net-tools dependency
