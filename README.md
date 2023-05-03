@@ -6,7 +6,7 @@
 
 - **Give it execute permissions to script**
 
-		chmod 750 interren.sh
+		chmod u+x interren.sh
 
 - **Run the script**
 
